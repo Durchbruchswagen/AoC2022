@@ -1,0 +1,8 @@
+items 73 77 Operation * 5 Test 11 true 6 false 5
+items 57 88 80 Operation + 5 Test 19 true 6 false 0
+items 61 81 84 69 77 88 Operation * 19 Test 5 true 3 false 1
+items 78 89 71 60 81 84 87 75 Operation + 7 Test 3 true 1 false 0
+items 60 76 90 63 86 87 89 Operation + 2 Test 13 true 2 false 7
+items 88 Operation + 1 Test 17 true 4 false 7
+items 84 98 78 85 Operation * old Test 7 true 5 false 4
+items 98 89 78 73 71 Operation + 4 Test 2 true 3 false 2
